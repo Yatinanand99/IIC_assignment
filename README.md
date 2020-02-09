@@ -4,7 +4,7 @@ I was given 2 tasks that were as follows:
 0. Sentiment Analysis from given text and then giving insights from the data collected
 1. Analysis of any Youtube channel
 
-#Task 0:
+# Task 0:
  
  The text was first cleaned by Python regex (re library) which was various tools to perform on texts.
  
@@ -21,11 +21,11 @@ I was given 2 tasks that were as follows:
  4. JetBlue and SouthWest Air is very preferable airlines with decent ratio of comments and high positive comments or feedbacks
  5. American Airways is a decent airline with all positive comments and percentage share is equally likely.
  
-#Note: 
+# Note: 
 
 All these are Sentiments from Machines and can be trusted at a ccertain level only.
 
-#Task 1:
+# Task 1:
 
 The Youtube Channel I chose was NadeKing which makes videos on CS:GO game and is highly famous among the gamers.
 
