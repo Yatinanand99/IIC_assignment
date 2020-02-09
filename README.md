@@ -23,7 +23,7 @@ I was given 2 tasks that were as follows:
  
 # Note: 
 
-All these are Sentiments from Machines and can be trusted at a ccertain level only.
+All these are Sentiments from Machines and can be trusted at a certain level only.
 
 # Task 1:
 
