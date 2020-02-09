@@ -3,7 +3,7 @@ from googleapiclient.discovery import build
 import pandas as pd
 
 #Mining in the Youtube channel
-youTubeApiKey= 'AIzaSyAm891_awRZ6SIuUMKGPeJBzmVSVW_kOl8' ##Provide the YoutubeAPI here
+youTubeApiKey= '' ##Provide the YoutubeAPI here
 youtube=build('youtube','v3',developerKey=youTubeApiKey)
 channelId='UC5_YHkJ1i5E7E5J5wuU7oyw'  ##Provide the Youtube channel ID here
 
